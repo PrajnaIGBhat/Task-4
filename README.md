@@ -1,6 +1,3 @@
-# Task-4Thanks for sharing the dashboard screenshot! Based on the visuals, here’s a suggested **README** for your Power BI report:
-
----
 
 # 📊 Power BI Sales Dashboard
 
